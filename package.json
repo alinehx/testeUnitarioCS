@@ -1,0 +1,23 @@
+{
+  "name": "testeunitario",
+  "version": "1.0.0",
+  "description": "Solução para apoiar a apresenta�cao ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinehx/testeUnitarioCS.git"
+  },
+  "author": "Aline Haxkar Lavorato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alinehx/testeUnitarioCS/issues"
+  },
+  "homepage": "https://github.com/alinehx/testeUnitarioCS#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "sinon": "^1.17.4"
+  }
+}
